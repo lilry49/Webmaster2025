@@ -1,0 +1,141 @@
+.body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    float: center;
+    color: black;
+    width: 200px;
+
+
+
+}
+
+.main{
+    padding-top: 0px;
+    width: 50%;
+    background-color: rgb(245, 245, 245);
+} 
+    
+.navbar{
+    width: 1200px;
+    height: 100px;
+    background-color: rgb(245, 245, 245);
+}
+
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+
+.logo{
+    width:50px;
+    height:50px;
+    color: orange;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 50px;
+    float: left;
+    padding-top: 0px;
+}
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+    color: orange;
+    
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    color:orange;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 23px;
+    font-size: 20px;
+}
+
+ul li a{
+    font-family: Ariel;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+ul li a:hover{
+    color: darkorange;
+}
+  
+h6{
+    font-size: 4px;
+    text-align: center;
+}
+h1{
+    text-align: left;
+    padding-left: 212px;
+}
+
+img{
+    width:300px;
+    height: 200px;
+    margin-left: 212px;
+}
+.t-one{
+    font-size: 10px;
+    font-family: Arial;
+    padding-left: 212px;
+    line-height: 1;
+    margin: 0;
+}
+p{
+    padding: 0px;
+    line-height: 1;
+    margin: 0;
+}
+h2{
+    color: orange;
+  }
+p{
+    color: var(--red);
+  }
+a{
+    color:black;
+    
+}
+.hungry{
+    color:orange;
+    text-align: center;
+}
+.opt{
+    text-align: center;
+}
+
+img{
+    width:1200px;
+    height: 500px;
+
+}
+
+
+.frontbannerpic {
+    width: 100%; /* Takes up the full width of the screen */
+    height: 300px; /* Adjust the height as needed */
+    overflow: hidden; /* Ensures the image stays within the banner size */
+    position: relative;
+}
+
+.frontbannerpic img {
+    width: 100%; 
+    height: 100%; 
+    object-fit: cover; 
+    display: block; 
+}
+
+.about{
+
+    font-family: Aria;
+}
